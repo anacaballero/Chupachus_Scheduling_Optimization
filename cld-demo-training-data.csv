@@ -1,0 +1,352 @@
+﻿client,work_orer,service_pool,priority,start_date,end_date,error_code,order_type,descrption,object_code,project,appointment,location,resource_id2
+EN,130280,NORTHPOOL, ,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,E,IO,New media installation , ,UK100,0,City Council Main Street 1 London NW1 1PS,90080123
+EN,130281,NORTHPOOL, ,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,3,SO,No water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130283,NORTHPOOL, ,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130284,NORTHPOOL, ,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,3,SO,No water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130285,NORTHPOOL,1,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,C,SO,Retiling needed, ,UK100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130286,NORTHPOOL, ,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080123
+EN,130288,NORTHPOOL, ,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080102
+EN,130290,NORTHPOOL,1,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,3,SO,No water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130291,NORTHPOOL, ,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,4,IO,Installing a new water system, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130292,NORTHPOOL,1,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080102
+EN,130293,NORTHPOOL,1,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,3,SO,No water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130294,NORTHPOOL, ,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080102
+EN,130297,NORTHPOOL, ,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,C,IO,Create a new wall, ,UK100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130298,NORTHPOOL, ,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080123
+EN,130299,NORTHPOOL, ,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130300,NORTHPOOL, ,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080102
+EN,130301,NORTHPOOL,,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,C,SO,Ceiling plastering, ,Uk100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130302,NORTHPOOL, ,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,3,SO,No water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130304,NORTHPOOL,1,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080123
+EN,130305,NORTHPOOL, ,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,3,SO,No water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130306,NORTHPOOL, ,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080123
+EN,130307,NORTHPOOL, ,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,4,IO,Installing a new water system, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130308,NORTHPOOL, ,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,3,SO,No water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130309,NORTHPOOL, ,2018-10-05 00:00:00.000,2018-10-05 00:00:00.000,C,IO,New shelving unit, ,UK100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130312,NORTHPOOL,,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,E,IO,New media installation , ,UK100,0,City Council Main Street 1 London NW1 1PS,90080123
+EN,130313,NORTHPOOL, ,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,C,SO,Fix a table, ,UK100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130314,NORTHPOOL,1,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,3,SO,No water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130315,NORTHPOOL, ,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130316,NORTHPOOL, ,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080102
+EN,130318,NORTHPOOL, ,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080102
+EN,130320,NORTHPOOL,1,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,3,SO,No water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130321,NORTHPOOL,1,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,C,SO,Door handle, ,UK100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130322,NORTHPOOL,1,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080102
+EN,130323,NORTHPOOL, ,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130325,NORTHPOOL, ,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,C,IO,New shelving unit, ,UK100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130326,NORTHPOOL, ,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,3,IO,Installing a new water system, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,80080202
+EN,130328,NORTHPOOL, ,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080123
+EN,130329,NORTHPOOL, ,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,3,SO,No water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130330,NORTHPOOL, ,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080123
+EN,130332,NORTHPOOL, ,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,3,SO,No water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130333,NORTHPOOL, ,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,C,SO,Building fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130334,NORTHPOOL,1,2018-10-08 00:00:00.000,2018-10-08 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080123
+EN,130336,NORTHPOOL, ,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,E,IO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080123
+EN,130337,NORTHPOOL, ,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,C,SO,Some small stuff needed, ,UK100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130339,NORTHPOOL, ,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130340,NORTHPOOL, ,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,E,IO,New wiring system for an extra room, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080123
+EN,130341,NORTHPOOL,1,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,3,SO,No water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130342,NORTHPOOL,1,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080102
+EN,130344,NORTHPOOL,1,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130346,NORTHPOOL, ,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080102
+EN,130347,NORTHPOOL, ,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,4,SO,No warn water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130348,NORTHPOOL, ,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,E,IO,New media installation , ,UK100,0,City Council Main Street 1 London NW1 1PS,90080102
+EN,130349,NORTHPOOL, ,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,C,IO,Build a wall and add a new door, ,UK100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130350,NORTHPOOL, ,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130353,NORTHPOOL, ,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130354,NORTHPOOL, ,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080102
+EN,130355,NORTHPOOL, ,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130356,NORTHPOOL, ,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130357,NORTHPOOL, ,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,C,SO,Fix a shelving unit, ,UK100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130358,NORTHPOOL, ,2018-10-09 00:00:00.000,2018-10-09 00:00:00.000,E,SO,Electricity fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080102
+EN,130360,NORTHPOOL, ,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,E,IO,New wiring system for an extra room, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080123
+EN,130361,NORTHPOOL,1,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,C,SO,Door hinge, ,UK100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130362,NORTHPOOL, ,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130363,NORTHPOOL, ,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,4,IO,Installing a new water system, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,80080202
+EN,130364,NORTHPOOL, ,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080102
+EN,130365,NORTHPOOL, ,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130368,NORTHPOOL, ,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130369,NORTHPOOL, ,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,C,SO,Walls plastering, ,UK100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130370,NORTHPOOL, ,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080102
+EN,130371,NORTHPOOL, ,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,4,SO,No warn water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130372,NORTHPOOL,1,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080102
+EN,130374,NORTHPOOL,1,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130376,NORTHPOOL, ,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080123
+EN,130377,NORTHPOOL,1,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130378,NORTHPOOL, ,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080123
+EN,130379,NORTHPOOL, ,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130381,NORTHPOOL,1,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,C,SO,Holes in one meeting room, ,UK100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130382,NORTHPOOL, ,2018-10-10 00:00:00.000,2018-10-10 00:00:00.000,E,IO,New wiring system for an extra room, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080123
+EN,130384,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080102
+EN,130385,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,C,SO,New shelving unit, ,UK100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130386,NORTHPOOL,1,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130388,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080102
+EN,130389,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130390,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080102
+EN,130392,NORTHPOOL,1,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130393,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,C,SO,Building fault, ,UK100,0,City Council Main Street 1 London NW1 1PS,90020101
+EN,130409,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,C,SO,Retiling needed, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130410,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130411,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130412,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,E,IO,New wiring system for an extra room, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080123
+EN,130413,NORTHPOOL,1,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130414,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080102
+EN,130416,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130417,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,C,SO,Fix a table, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130418,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080123
+EN,130419,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,4,SO,No warn water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130420,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080102
+EN,130421,NORTHPOOL,1,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130424,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080102
+EN,130425,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130426,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130427,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130428,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130430,NORTHPOOL, ,2018-10-12 00:00:00.000,2018-10-12 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130432,NORTHPOOL,1,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130433,NORTHPOOL, ,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130434,NORTHPOOL, ,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130435,NORTHPOOL, ,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90080101
+EN,130437,NORTHPOOL,1,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130438,NORTHPOOL, ,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130440,NORTHPOOL,1,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130441,NORTHPOOL,1,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130442,NORTHPOOL,,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130444,NORTHPOOL, ,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130445,NORTHPOOL, ,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,C,SO,Retiling needed, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130446,NORTHPOOL, ,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130448,NORTHPOOL, ,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130449,NORTHPOOL, ,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130451,NORTHPOOL, ,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080202
+EN,130452,NORTHPOOL, ,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130453,NORTHPOOL, ,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130454,NORTHPOOL,,2018-10-15 00:00:00.000,2018-10-15 00:00:00.000,E,IO,New wiring system for an extra room, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130456,NORTHPOOL, ,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130458,NORTHPOOL, ,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130459,NORTHPOOL, ,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080202
+EN,130460,NORTHPOOL, ,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130461,NORTHPOOL,1,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130462,NORTHPOOL, ,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130465,NORTHPOOL, ,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,C,SO,Fix a table, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130466,NORTHPOOL, ,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130467,NORTHPOOL, ,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,4,SO,No warn water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130468,NORTHPOOL, ,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130469,NORTHPOOL, ,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130470,NORTHPOOL,1,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130472,NORTHPOOL,1,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130473,NORTHPOOL, ,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130474,NORTHPOOL,1,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130475,NORTHPOOL, ,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,4,IO,Installing a new water system, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080202
+EN,130476,NORTHPOOL, ,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130477,NORTHPOOL, ,2018-10-16 00:00:00.000,2018-10-16 00:00:00.000,C,IO,Create a new wall, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130480,NORTHPOOL, ,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130481,NORTHPOOL,1,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,C,IO,Create a new wall, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130482,NORTHPOOL,1,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130483,NORTHPOOL, ,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080202
+EN,130484,NORTHPOOL, ,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130486,NORTHPOOL, ,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130488,NORTHPOOL, ,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,3,IO,Installing a new water system, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130489,NORTHPOOL, ,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,C,IO,Create a new wall, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130490,NORTHPOOL, ,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130491,NORTHPOOL, ,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,4,SO,No warn water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130493,NORTHPOOL, ,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,C,SO,New shelving unit, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130494,NORTHPOOL, ,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130496,NORTHPOOL, ,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,E,IO,New wiring system for an extra room, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130497,NORTHPOOL,1,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130498,NORTHPOOL, ,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130500,NORTHPOOL, ,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130501,NORTHPOOL,1,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130502,NORTHPOOL, ,2018-10-17 00:00:00.000,2018-10-17 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130504,NORTHPOOL, ,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130505,NORTHPOOL, ,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,C,SO,Retiling needed, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130507,NORTHPOOL, ,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080303
+EN,130508,NORTHPOOL, ,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130509,NORTHPOOL,1,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130510,NORTHPOOL, ,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130512,NORTHPOOL,1,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130514,NORTHPOOL,1,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130515,NORTHPOOL, ,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,4,SO,No warn water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130516,NORTHPOOL, ,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,E,IO,New wiring system for an extra room, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130517,NORTHPOOL, ,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,C,SO,Retiling needed, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130518,NORTHPOOL, ,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130521,NORTHPOOL, ,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130522,NORTHPOOL,1,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130523,NORTHPOOL, ,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080202
+EN,130524,NORTHPOOL, ,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130525,NORTHPOOL, ,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,C,SO,Fix a table, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130526,NORTHPOOL, ,2018-10-18 00:00:00.000,2018-10-18 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130192,NORTHPOOL,1,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130193,NORTHPOOL, ,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130194,NORTHPOOL,1,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130195,NORTHPOOL, ,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080202
+EN,130196,NORTHPOOL, ,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130197,NORTHPOOL, ,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,3,SO,No water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080303
+EN,130200,NORTHPOOL, ,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,3,SO,No water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080303
+EN,130201,NORTHPOOL,1,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Science University London Strand Campus Strand London WC2R 2LS,90020101
+EN,130202,NORTHPOOL,1,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130203,NORTHPOOL, ,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,4,SO,No warn water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130204,NORTHPOOL,1,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130206,NORTHPOOL,1,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,3,SO,No water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080101
+EN,130208,NORTHPOOL, ,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130209,NORTHPOOL, ,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130210,NORTHPOOL, ,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,E,IO,New wiring system for an extra room, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130211,NORTHPOOL, ,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080202
+EN,130213,NORTHPOOL, ,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,C,SO,New shelving unit, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080303
+EN,130214,NORTHPOOL,1,2018-10-01 00:00:00.000,2018-10-01 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130216,NORTHPOOL, ,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130217,NORTHPOOL, ,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90020101
+EN,130218,NORTHPOOL,1,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130220,NORTHPOOL, ,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130221,NORTHPOOL,1,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,3,IO,Installing a new water system, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130222,NORTHPOOL, ,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130224,NORTHPOOL, ,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130225,NORTHPOOL, ,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90020101
+EN,130227,NORTHPOOL, ,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,4,SO,No warn water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130228,NORTHPOOL, ,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130229,NORTHPOOL, ,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90020101
+EN,130230,NORTHPOOL, ,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130232,NORTHPOOL,1,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130234,NORTHPOOL, ,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130235,NORTHPOOL, ,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080303
+EN,130236,NORTHPOOL, ,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130237,NORTHPOOL, ,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,C,SO,Retiling needed, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080303
+EN,130238,NORTHPOOL, ,2018-10-02 00:00:00.000,2018-10-02 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130241,NORTHPOOL,1,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,C,IO,Create a new wall, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90020101
+EN,130242,NORTHPOOL,1,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130243,NORTHPOOL, ,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080202
+EN,130244,NORTHPOOL, ,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130245,NORTHPOOL,1,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130246,NORTHPOOL, ,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130248,NORTHPOOL, ,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130249,NORTHPOOL, ,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,C,SO,Fix a table, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90020101
+EN,130250,NORTHPOOL, ,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,E,IO,New wiring system for an extra room, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130251,NORTHPOOL, ,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,4,SO,No warn water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130252,NORTHPOOL, ,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130253,NORTHPOOL, ,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90020101
+EN,130256,NORTHPOOL, ,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130257,NORTHPOOL, ,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130258,NORTHPOOL, ,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130259,NORTHPOOL, ,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080303
+EN,130260,NORTHPOOL, ,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130262,NORTHPOOL,1,2018-10-03 00:00:00.000,2018-10-03 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130264,NORTHPOOL, ,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130265,NORTHPOOL, ,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,C,SO,Fix a table, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90020101
+EN,130266,NORTHPOOL,1,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,3,IO,Installing a new water system, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130267,NORTHPOOL, ,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080202
+EN,130269,NORTHPOOL,1,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130270,NORTHPOOL, ,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,E,IO,New wiring system for an extra room, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130272,NORTHPOOL, ,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130273,NORTHPOOL, ,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90020101
+EN,130274,NORTHPOOL, ,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130276,NORTHPOOL, ,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130277,NORTHPOOL, ,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,C,SO,Retiling needed, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90020101
+EN,130278,NORTHPOOL, ,2018-10-04 00:00:00.000,2018-10-04 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130395,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,4,SO,No warn water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130396,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130397,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,C,SO,New shelving unit, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,80080303
+EN,130398,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130400,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130402,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130403,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,4,SO,No warn water, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,80080303
+EN,130404,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130405,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,C,IO,Create a new wall, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90020101
+EN,130406,NORTHPOOL, ,2018-10-11 00:00:00.000,2018-10-11 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130528,NORTHPOOL, ,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080123
+EN,130529,NORTHPOOL, ,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,C,SO,Fix a table, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,80080303
+EN,130530,NORTHPOOL,1,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130531,NORTHPOOL, ,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,4,SO,No warn water, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,80080303
+EN,130532,NORTHPOOL,1,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080102
+EN,130533,NORTHPOOL,1,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130536,NORTHPOOL, ,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130537,NORTHPOOL, ,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,C,SO,Retiling needed, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,80080303
+EN,130538,NORTHPOOL, ,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130539,NORTHPOOL, ,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,4,SO,No warn water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130540,NORTHPOOL, ,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130542,NORTHPOOL, ,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130544,NORTHPOOL, ,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130545,NORTHPOOL, ,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130546,NORTHPOOL, ,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080123
+EN,130547,NORTHPOOL, ,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,4,SO,No warn water, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,80080303
+EN,130549,NORTHPOOL, ,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,80080303
+EN,130550,NORTHPOOL, ,2018-10-19 00:00:00.000,2018-10-19 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080123
+EN,130552,NORTHPOOL,1,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130553,NORTHPOOL, ,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,80080303
+EN,130554,NORTHPOOL, ,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,3,SO,No water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080202
+EN,130556,NORTHPOOL, ,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130557,NORTHPOOL, ,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,3,SO,No water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080202
+EN,130558,NORTHPOOL, ,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130560,NORTHPOOL,1,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,3,SO,No water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080101
+EN,130561,NORTHPOOL,1,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,80080303
+EN,130563,NORTHPOOL, ,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,4,IO,Installing a new water system, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080202
+EN,130564,NORTHPOOL,1,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130565,NORTHPOOL, ,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,C,SO,Building fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,80080303
+EN,130566,NORTHPOOL,1,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,3,IO,Installing a new water system, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080202
+EN,130568,NORTHPOOL, ,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080123
+EN,130570,NORTHPOOL, ,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130571,NORTHPOOL, ,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,4,SO,No warn water, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,80080303
+EN,130572,NORTHPOOL, ,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130573,NORTHPOOL, ,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,C,SO,Fix a table, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,90020101
+EN,130574,NORTHPOOL,1,2018-10-22 00:00:00.000,2018-10-22 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130577,NORTHPOOL, ,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,C,SO,Building fault, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,90020101
+EN,130578,NORTHPOOL, ,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130579,NORTHPOOL, ,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,4,SO,No warn water, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,80080303
+EN,130580,NORTHPOOL, ,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080123
+EN,130581,NORTHPOOL, ,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130582,NORTHPOOL,1,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130584,NORTHPOOL,1,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130585,NORTHPOOL, ,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,C,SO,Building fault, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,90020101
+EN,130586,NORTHPOOL, ,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130587,NORTHPOOL, ,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,4,SO,No warn water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080303
+EN,130588,NORTHPOOL, ,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130589,NORTHPOOL, ,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,C,SO,New shelving unit, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,90020101
+EN,130592,NORTHPOOL, ,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080123
+EN,130593,NORTHPOOL,1,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130594,NORTHPOOL,1,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130595,NORTHPOOL, ,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,4,IO,Installing a new water system, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,80080202
+EN,130596,NORTHPOOL, ,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130598,NORTHPOOL, ,2018-10-23 00:00:00.000,2018-10-23 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130601,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,E,IO,New wiring system for an extra room, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130602,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,C,SO,Fix a table, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,90020101
+EN,130603,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,80080202
+EN,130604,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,4,SO,No warn water, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,80080303
+EN,130606,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,3,SO,No water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080303
+EN,130607,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130609,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,3,SO,No water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080303
+EN,130610,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,C,SO,Building fault, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,90020101
+EN,130611,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130613,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130614,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,C,SO,Retiling needed, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,90020101
+EN,130615,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,3,SO,No water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080303
+EN,130617,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,E,IO,New wiring system for an extra room, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080123
+EN,130618,NORTHPOOL,1,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,3,SO,No water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080101
+EN,130620,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,4,SO,No warn water, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,80080303
+EN,130621,NORTHPOOL,1,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,3,SO,No water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080101
+EN,130622,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,C,IO,Create a new wall, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,90020101
+EN,130623,NORTHPOOL, ,2018-10-24 00:00:00.000,2018-10-24 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080123
+EN,130625,NORTHPOOL, ,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130627,NORTHPOOL,1,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,3,SO,No water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,90080101
+EN,130628,NORTHPOOL, ,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,4,IO,Installing a new water system, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,80080202
+EN,130629,NORTHPOOL, ,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130630,NORTHPOOL,1,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,3,IO,Installing a new water system, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080202
+EN,130631,NORTHPOOL,1,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130634,NORTHPOOL, ,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,C,SO,New shelving unit, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,90020101
+EN,130635,NORTHPOOL, ,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080123
+EN,130636,NORTHPOOL, ,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,4,SO,No warn water, ,SERVICE,0,Computing Science Guy's Campus King's College London London SE1 1UL,80080202
+EN,130637,NORTHPOOL, ,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,E,IO,New wiring system for an extra room, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080123
+EN,130638,NORTHPOOL, ,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,C,SO,Retiling needed, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,90020101
+EN,130639,NORTHPOOL, ,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,3,SO,No water, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,80080303
+EN,130641,NORTHPOOL, ,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080123
+EN,130642,NORTHPOOL, ,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,3,SO,No water, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,80080202
+EN,130643,NORTHPOOL, ,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130644,NORTHPOOL, ,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,4,SO,No warn water, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,80080303
+EN,130645,NORTHPOOL, ,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,3,SO,No water, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080101
+EN,130646,NORTHPOOL, ,2018-10-25 00:00:00.000,2018-10-25 00:00:00.000,C,IO,Create a new wall, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,90020101
+EN,130649,NORTHPOOL, ,2018-10-26 00:00:00.000,2018-10-26 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130650,NORTHPOOL, ,2018-10-26 00:00:00.000,2018-10-26 00:00:00.000,C,SO,New shelving unit, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,90020101
+EN,130651,NORTHPOOL,1,2018-10-26 00:00:00.000,2018-10-26 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130652,NORTHPOOL, ,2018-10-26 00:00:00.000,2018-10-26 00:00:00.000,4,SO,No warn water, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,80080202
+EN,130653,NORTHPOOL, ,2018-10-26 00:00:00.000,2018-10-26 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130655,NORTHPOOL, ,2018-10-26 00:00:00.000,2018-10-26 00:00:00.000,E,SO,Electricity fault, ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
+EN,130657,NORTHPOOL,1,2018-10-26 00:00:00.000,2018-10-26 00:00:00.000,3,SO,No water, ,UK100,0,City Council Main Street 1 London NW1 1PS,90080101
+EN,130658,NORTHPOOL, ,2018-10-26 00:00:00.000,2018-10-26 00:00:00.000,C,IO,Create a new wall, ,OPS,0,The Institute of Cancer Research 123 Old Brompton Rd Kensington London SW7 3RP,90020101
+EN,130659,NORTHPOOL, ,2018-10-26 00:00:00.000,2018-10-26 00:00:00.000,E,IO,New media installation , ,SERVICE,0,Arts and Humanities Stamford St Lambeth London SE1 9NH,90080102
